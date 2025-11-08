@@ -25,7 +25,7 @@ This site is where I save my studies.
 
 ### 👩‍💻 Contact Me
 <div>
-  <a href="mailto:[본인 이메일 주소]" target="_blank">
+  <a href="mailto:a01092673327@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
 </div>
