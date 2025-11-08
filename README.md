@@ -30,8 +30,8 @@ This site is where I save my studies.
   </a>
 </div>
 
-<div align="center">
-
+<div>
+<br>
 ### 🎧 Recently Played
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=pp5856&show_user=header&footer_style=wave&count=4)
 </div>
