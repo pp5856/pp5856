@@ -1,11 +1,11 @@
 <div>
 
-<br>
-
 ### 👋 Hi there
-I'm **[Taewon Yang]** and wish to be a Front-end Developer in the future. <br>
+I'm **Taewon Yang** and wish to be a Front-end Developer in the future. <br>
 This site is where I save my studies.
 <br>
+<br>
+
 ### 🔥 Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -21,7 +21,6 @@ This site is where I save my studies.
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black">
 </div>
-
 <br>
 
 ### 👩‍💻 Contact Me
@@ -30,7 +29,5 @@ This site is where I save my studies.
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
 </div>
-
-<br>
 
 </div>
