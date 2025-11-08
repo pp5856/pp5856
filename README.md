@@ -30,4 +30,13 @@ This site is where I save my studies.
   </a>
 </div>
 
+<div align="center">
+
+### 🎧 Recently Played
+<a href="https://www.last.fm/user/pp5856" target="_blank">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=pp5856" alt="Recent Tracks">
+</a>
+
+</div>
+
 </div>
